@@ -29,4 +29,4 @@ Installation:
 4. Drag all bin/files extracted from the .zip to the BetterRTX installer and each time you drag should say "success"
 5. Launch Minecraft(If you have Minecraft open then close it and reopen)
 6. You are done
-------------------------------------------
+------------------------------------------ 
