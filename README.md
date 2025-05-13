@@ -23,7 +23,7 @@ https://www.curseforge.com/members/elocindev
 https://www.curseforge.com/members/lunapixelstudios
 ------------------------------------------
 Installation:
-1. Install BetterRTX installer https://www.curseforge.com/members/lunapixelstudios/projects
+1. Install BetterRTX installer
 2. Extract one of the presets you wanna use
 3. Open BetterRTX installer by clicking at the right button of the mouse and selecting to open as powershell
 4. Drag all bin/files extracted from the .zip to the BetterRTX installer and each time you drag should say "success"
