@@ -1,4 +1,4 @@
-Starting from now, Theres a site for the presets ( https://sites.google.com/view/betterrtxpresets/ ) i will upload presets and updates for github but they might be delayed and mcpedl will no longer receive updates
+Starting from now, Theres a site for the presets ( https://sites.google.com/view/betterrtxpresets/ ) i will upload presets and updates for github but they might be delayed and mcpedl will no longer receive updates.
 
 
 BetterRTX x horror -BetterRTX 1.3.1 Preset
