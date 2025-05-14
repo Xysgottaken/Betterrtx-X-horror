@@ -6,7 +6,7 @@ BetterRTX x horror -BetterRTX 1.3.1 Preset
 Creator: Xysgottaken
 Version: v1.0
 Created: 04/28/2025
-Uploaded: 04/29/2025
+Uploaded: 04/30/2025
 ------------------------------------------
 Description:
 Since no one made a horror rtpack, i decided to make it since i am a huge fan of horror modpacks/mods
